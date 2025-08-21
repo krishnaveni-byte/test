@@ -1,1 +1,1 @@
- adding a new file in 2.java
+adding blue clour to 2.java
